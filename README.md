@@ -59,6 +59,10 @@ I'm **Anosha Infirad**, a passionate Computer Science student with a strong foun
 - Knight Travail's 
 - Tic Tac Toe   
 - Movie Ticket Booking System  
+### Project Links:
+* [Tic Tac Toe Game](https://your-link-here)
+* [Movie Ticket Booking System](https://your-link-here)
+* [Knight Travails](https://your-link-here)
 
 
 
