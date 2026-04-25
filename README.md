@@ -54,13 +54,13 @@ I'm **Anosha Infirad**, a passionate Computer Science student with a strong foun
 
 ## 🌐 Front-End Web Projects
 
-**Tech Stack:** HTML, CSS, JavaScript  
+**Tech Stack:** HTML,C, Java 
 
-- BMI Calculator  
-- Tic Tac Toe (Web)  
-- Color Switcher  
+- Knight Travail's 
+- Tic Tac Toe   
+- Movie Ticket Booking System  
 
-> Focused on DOM manipulation and interactive UI design
+
 
 ---
 
