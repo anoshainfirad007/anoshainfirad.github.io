@@ -1,8 +1,7 @@
-## 📘 Weekly Reflection: Week 1
+## 📘 Week 1: Codes of Conduct
 
 ### 📖 Topic Covered:
-Introduction to Codes of Conduct in the computing profession.
-
+This week introduced the fundamental concept of codes of conduct in the computing profession, focusing on their role in guiding ethical and responsible professional behavior.
 ### 🧠 What I Learned:
 I learned that a **code of conduct** is a set of ethical principles, rules, and standards that guide professionals in their work and behavior.
 
