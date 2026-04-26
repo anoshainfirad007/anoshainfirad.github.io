@@ -1,9 +1,19 @@
-## Weekly Reflections (Week 1–16)
+## 📚 Week 1: CS in Society
 
-### Week 2: CS in Society
+### 📖 Topic Covered:
+The lecture explored the historical, social, and economic impacts of computing on society and the importance of professional responsibility in the field of computing.
 
-* **[span_0](start_span)Topic Covered**: The lecture explored the historical, social, and economic impact of computing, highlighting how the evolution from simple mechanical calculators to advanced digital systems has profoundly influenced society, the economy, and professional practices[span_0](end_span).
-* **[span_1](start_span)What I Learned**: I learned about the technological progression beginning with Charles Babbage’s 19th-century Analytical Engine and Ada Lovelace’s foundational algorithmic thinking[span_1](end_span). [span_2](start_span)Furthermore, I explored 20th-century developments like the Turing Machine and the rise of mainframes, followed by the late 20th and 21st-century revolution brought about by the internet, mobile computing, and cloud technology[span_2](end_span).
-* **[span_3](start_span)[span_4](start_span)Key Insight**: A central insight is that computing impacts social structures and human behavior, raising urgent ethical questions regarding privacy, misinformation, cyberbullying, and the digital divide[span_3](end_span)[span_4](end_span). [span_5](start_span)[span_6](start_span)[span_7](start_span)[span_8](start_span)Additionally, computing is a key driver of global economic growth through automation and new market creation, but it also presents challenges like workforce reskilling and the environmental impact of data centers[span_5](end_span)[span_6](end_span)[span_7](end_span)[span_8](end_span).
-* **[span_9](start_span)Real-life Application**: As a computing student, I must recognize that every software solution I develop has broader implications beyond its technical function[span_9](end_span). [span_10](start_span)[span_11](start_span)Consequently, I must prioritize ethical decision-making and adhere to established professional codes—such as those from the ACM, IEEE, or BCS—to ensure my work upholds integrity, contributes to human well-being, and minimizes harm to society[span_10](end_span)[span_11](end_span).
-*
+### 🧠 What I Learned:
+I learned about the evolution of computing from early mechanical calculators like Babbage's Analytical Engine to modern technologies such as mobile and cloud computing. We also discussed how these advancements have changed global communication, education, and industries.
+
+At the same time, I understood that these developments also bring challenges such as the digital divide, misinformation, and privacy concerns.
+
+### 💡 Key Insight:
+A major takeaway from this topic is that technology is not neutral. Every software system or digital solution has an impact on society, including environmental effects and changes in the job market.
+
+This highlights the importance of ethical decision-making for computing professionals to ensure their work benefits society responsibly.
+
+### 🌍 Real-life Application:
+I can apply this knowledge by critically evaluating the technologies I use, such as algorithms in hiring systems or social media platforms.
+
+I am now more aware of privacy, data ownership, and ethical concerns when using or developing software. Additionally, I understand the importance of designing sustainable and fair technology solutions that improve accessibility for everyone.
