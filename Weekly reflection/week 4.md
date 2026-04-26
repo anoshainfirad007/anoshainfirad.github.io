@@ -1,7 +1,7 @@
-## 📚  Week 6:Life-long Learning
+## 📚  Week 4:Life-long Learning
 
 ### 📖 Topic Covered:
-Life-long learning in the field of Computer Science.
+This week focused on the importance and role of life-long learning in the field of Computer Science. It emphasized how continuous learning helps professionals stay relevant in a rapidly changing technological world.
 
 ### 🧠 What I Learned:
 I learned that continuous learning in Computer Science is essential because technology changes very quickly. Programming languages evolve, new tools are introduced, and cybersecurity threats keep changing regularly.
