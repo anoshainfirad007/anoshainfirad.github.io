@@ -1,7 +1,7 @@
-## 🌟 Weekly Reflection: Week 4
+## 🌟 Week 3:Personal Branding 
 
 ### 📖 Topic Covered:
-Personal Branding 
+This lecture focused on the importance of personal branding for Computer Science students and the methods to build it. It emphasized creating a distinct professional identity through platforms like LinkedIn and intentional professional networking
 
 ### 🧠 What I Learned:
 I learned that personal branding is the intentional process of managing my professional identity to clearly communicate my skills, values, and career goals to potential employers.
