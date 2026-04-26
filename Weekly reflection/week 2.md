@@ -1,4 +1,4 @@
-## 🤝 Weekly Reflection: Workplace Culture
+## 🤝 Week 2: Workplace Culture
 
 ### 📖 Topic Covered:
 This week explored the essential pillars of workplace culture in the technology sector, focusing on how professional conduct, diversity, and inclusion influence the way we build systems and interact with others.
