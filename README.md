@@ -38,12 +38,6 @@ My main career interest is in the field of Information Technology, particularly 
 I also want to continue learning new computer skills and tools to improve my knowledge. In the future, my goal is to build a stable career in IT and become a reliable and skilled professional.
 
 
-## 📁Purpose of This Portfolio
-
-This reflective portfolio highlights my learning journey during the Capstone & Professional Practices course. It contains my weekly reflections, project work, and the knowledge I gained throughout the course.  
-
-The purpose of this portfolio is to present my progress, show the skills I have developed, and demonstrate my understanding of professional practices in the computing field.
-
 ## 🚀 Projects
 
 ### 📡 Ultrasonic Sensor, Buzzer & LCD (Distance Detector)
@@ -66,4 +60,4 @@ The purpose of this portfolio is to present my progress, show the skills I have 
 
 ## 📫 Contact
 Github:[Github](https://github.com/anoshainfirad007)
-Feel free to connect and collaborate on exciting projects! 🚀
+
