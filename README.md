@@ -59,5 +59,6 @@ I also want to continue learning new computer skills and tools to improve my kno
 ---
 
 ## 📫 Contact
-Github:[Github](https://github.com/anoshainfirad007)
-linkedin:Linkedin(https://www.linkedin.com/in/anosha-infirad-977257407/)
+-Github:[Github](https://github.com/anoshainfirad007)
+
+-Linkedin:[Linkedin](https://www.linkedin.com/in/anosha-infirad-977257407/)
